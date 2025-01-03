@@ -191,35 +191,60 @@ https://pull.niues.live/live/stream-156593_lsd.m3u8?ps=4&app=live&stream=stream-
 #EXTINF:-1 group-title="Socolive (Tường thuật)" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", SOC TY PHU
 https://pull.niues.live/live/stream-351002_lsd.m3u8?ps=6&app=live&stream=stream-351002_lsd&vhost=pull.niues.live
 
+#EXTINF:-1 group-title="CaKhia.TV (SD1)" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg", CAKHIA Thợ Lặn
+https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@lansd1/chunklist.m3u8
+#EXTINF:-1 group-title="CaKhia.TV (SD1)" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg", CAKHIA Thợ Xây
+https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@thoxaysd1/chunklist.m3u8
+#EXTINF:-1 group-title="CaKhia.TV (SD1)" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg", CAKHIA H+
+https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@hplussd1/chunklist.m3u8
+#EXTINF:-1 group-title="CaKhia.TV (SD1)" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg", CAKHIA Tây Môn Chuối
+https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@cachuoisd1/chunklist.m3u8
+#EXTINF:-1 group-title="CaKhia.TV (SD1)" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg",CAKHIA Giàng A Lử
+https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@lusd1/chunklist.m3u8
+#EXTINF:-1 group-title="CaKhia.TV (SD1)" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg", CAKHIA Giàng A Cay
+https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@caysd1/chunklist.m3u8
+#EXTINF:-1 group-title="CaKhia.TV (SD1)" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg", CAKHIA Giàng A Lú
+https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@lulusd1/chunklist.m3u8
+#EXTINF:-1 group-title="CaKhia.TV (SD1)" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg", CAKHIA Giàng A Lôi
+https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@loisd1/chunklist.m3u8
+#EXTINF:-1 group-title="CaKhia.TV (SD1)" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg", CAKHIA Giàng A Páo
+https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@paosd1/chunklist.m3u8
+#EXTINF:-1 group-title="CaKhia.TV (SD1)" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg",CAKHIA Giàng A Phò
+https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@cakhiasd1/chunklist.m3u8
+#EXTINF:-1 group-title="CaKhia.TV (SD1)" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg", CAKHIA Giàng A Cỏ
+https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@cosd1/chunklist.m3u8
+#EXTINF:-1 group-title="CaKhia.TV (SD1)" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg", CAKHIA Giàng A Bịp
+https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@bipsd1/chunklist.m3u8
+#EXTINF:-1 group-title="CaKhia.TV (SD1)" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg", CAKHIA Giàng A Heo
+https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@heosd1/chunklist.m3u8
+#EXTINF:-1 group-title="CaKhia.TV (SD1)" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg", CAKHIA Giàng A Sún
+https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@sunsd1/chunklist.m3u8
 
-
-
-
-#EXTINF:-1 group-title="CaKhia.TV" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg", CAKHIA Thợ Lặn
-https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@lansd1.flv
-#EXTINF:-1 group-title="CaKhia.TV" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg", CAKHIA Thợ Xây
-https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@thoxaysd1.flv
-#EXTINF:-1 group-title="CaKhia.TV" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg", CAKHIA H+
-https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@hplussd1.flv
-#EXTINF:-1 group-title="CaKhia.TV" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg", CAKHIA Tây Môn Chuối
-https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@cachuoisd1.flv
-#EXTINF:-1 group-title="CaKhia.TV" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg",CAKHIA Giàng A Lử
-https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@lusd1.flv
-#EXTINF:-1 group-title="CaKhia.TV" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg", CAKHIA Giàng A Cay
-https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@caysd1.flv
-#EXTINF:-1 group-title="CaKhia.TV" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg", CAKHIA Giàng A Lú
-https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@lulusd1.flv
-#EXTINF:-1 group-title="CaKhia.TV" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg", CAKHIA Giàng A Lôi
-https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@loisd1.flv
-#EXTINF:-1 group-title="CaKhia.TV" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg", CAKHIA Giàng A Páo
-https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@paosd1.flv
-#EXTINF:-1 group-title="CaKhia.TV" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg",CAKHIA Giàng A Phò
-https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@cakhiasd1.flv
-#EXTINF:-1 group-title="CaKhia.TV" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg", CAKHIA Giàng A Cỏ
-https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@cosd1.flv
-#EXTINF:-1 group-title="CaKhia.TV" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg", CAKHIA Giàng A Bịp
-https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@bipsd1.flv
-#EXTINF:-1 group-title="CaKhia.TV" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg", CAKHIA Giàng A Heo
-https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@heosd1.flv
-#EXTINF:-1 group-title="CaKhia.TV" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg", CAKHIA Giàng A Sún
-https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@sunsd1.flv
+#EXTINF:-1 group-title="CaKhia.TV (SD3)" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg", CAKHIA Thợ Lặn
+https://liveflv-cuckoo.cdnlive.pro/live/stream_1_a86e6@lansd1.flv
+#EXTINF:-1 group-title="CaKhia.TV (SD3)" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg", CAKHIA Thợ Xây
+https://liveflv-cuckoo.cdnlive.pro/live/stream_1_a86e6@thoxaysd1.flv
+#EXTINF:-1 group-title="CaKhia.TV (SD3)" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg", CAKHIA H+
+https://liveflv-cuckoo.cdnlive.pro/live/stream_1_a86e6@hplussd1.flv
+#EXTINF:-1 group-title="CaKhia.TV (SD3)" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg", CAKHIA Tây Môn Chuối
+https://liveflv-cuckoo.cdnlive.pro/live/stream_1_a86e6@cachuoisd1.flv
+#EXTINF:-1 group-title="CaKhia.TV (SD3)" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg",CAKHIA Giàng A Lử
+https://liveflv-cuckoo.cdnlive.pro/live/stream_1_a86e6@lusd1.flv
+#EXTINF:-1 group-title="CaKhia.TV (SD3)" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg", CAKHIA Giàng A Cay
+https://liveflv-cuckoo.cdnlive.pro/live/stream_1_a86e6@caysd1.flv
+#EXTINF:-1 group-title="CaKhia.TV (SD3)" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg", CAKHIA Giàng A Lú
+https://liveflv-cuckoo.cdnlive.pro/live/stream_1_a86e6@lulusd1.flv
+#EXTINF:-1 group-title="CaKhia.TV (SD3)" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg", CAKHIA Giàng A Lôi
+https://liveflv-cuckoo.cdnlive.pro/live/stream_1_a86e6@loisd1.flv
+#EXTINF:-1 group-title="CaKhia.TV (SD3)" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg", CAKHIA Giàng A Páo
+https://liveflv-cuckoo.cdnlive.pro/live/stream_1_a86e6@paosd1.flv
+#EXTINF:-1 group-title="CaKhia.TV (SD3)" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg",CAKHIA Giàng A Phò
+https://liveflv-cuckoo.cdnlive.pro/live/stream_1_a86e6@cakhiasd1.flv
+#EXTINF:-1 group-title="CaKhia.TV (SD3)" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg", CAKHIA Giàng A Cỏ
+https://liveflv-cuckoo.cdnlive.pro/live/stream_1_a86e6@cosd1.flv
+#EXTINF:-1 group-title="CaKhia.TV (SD3)" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg", CAKHIA Giàng A Bịp
+https://liveflv-cuckoo.cdnlive.pro/live/stream_1_a86e6@bipsd1.flv
+#EXTINF:-1 group-title="CaKhia.TV (SD3)" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg", CAKHIA Giàng A Heo
+https://liveflv-cuckoo.cdnlive.pro/live/stream_1_a86e6@heosd1.flv
+#EXTINF:-1 group-title="CaKhia.TV (SD3)" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg", CAKHIA Giàng A Sún
+https://liveflv-cuckoo.cdnlive.pro/live/stream_1_a86e6@sunsd1.flv
