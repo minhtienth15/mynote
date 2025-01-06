@@ -1,195 +1,54 @@
 #EXTINF:-1 group-title="Introduction" tvg-logo="https://i.ibb.co/jVq4xcp/soccer-player.png", Sources: Socolive-CaKhiaTV (SD)
 http://184.164.80.141/pukas.ts
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", DECO
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?ps=10&app=live&stream=stream-9912060_lsd&vhost=pull.niues.live
+
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", TAP
-https://pull.niues.live/live/stream-9912041_lsd.m3u8?ps=7&app=live&stream=stream-9912041_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", TYPN
-https://pull.niues.live/live/stream-9912009_lsd.m38?ps=9&app=live&stream=stream-9912009_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", FIREMAN
-https://pull.niues.live/live/stream-991140_lsd.m3u8?ps=9&app=live&stream=stream-991140_lsd&vhost=pull.niues.live
+https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=8e72462dcdc7579239316c80a1682f6c&txTime=677badf9
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", RICKHANTER (Temp)
 
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", SINGER (Temp)
 
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", LOGAN
-
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", PEWPEW
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?ps=9&app=live&stream=stream-9912015_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", SHOGUN
-https://pull.niues.live/live/stream-9912007_lsd.m3u8?ps=7&app=live&stream=stream-9912007_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", MIXI
-https://pull.niues.live/live/stream-290928_lsd.m3u8?ps=2&app=live&stream=stream-290928_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", CHAN GO
-https://pull.niues.live/live/stream-381230_lsd.m3u8?ps=4&app=live&stream=stream-381230_lsd&vhost=pull.niues.live
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", TA BIEN GIOI
-https://pull.niues.live/live/stream-9912096_lsd.m3u8?ps=2&app=live&stream=stream-9912096_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", LUKITA
-https://pull.niues.live/live/stream-254545_lsd.m3u8?ps=4&app=live&stream=stream-254545_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", STING
-https://pull.niues.live/live/stream-9912016_lsd.m3u8?ps=12&app=live&stream=stream-9912016_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", KAN
-https://pull.niues.live/live/stream-283501_lsd.m3u8?ps=5&app=live&stream=stream-283501_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", VI TIEU BAO
-https://pull.niues.live/live/stream-421637_lsd.m3u8?ps=2&app=live&stream=stream-421637_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", BU NO
-https://pull.niues.live/live/stream-366428_lsd.m3u8?ps=11&app=live&stream=stream-366428_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", AK47
-https://pull.niues.live/live/stream-9912092_lsd.m3u8?ps=7&app=live&stream=stream-9912092_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", PELE
-https://pull.niues.live/live/stream-9912003_lsd.m3u8?ps=5&app=live&stream=stream-9912003_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", BEO
-https://pull.niues.live/live/stream-459401_lsd.m3u8?ps=5&app=live&stream=stream-459401_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", A BEU
-https://pull.niues.live/live/stream-484845_lsd.m3u8?ps=3&app=live&stream=stream-484845_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", TOMIA
-https://pull.niues.live/live/stream-9912008_lsd.m3u8?ps=11&app=live&stream=stream-9912008_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", LUCAS
-https://pull.niues.live/live/stream-304148_lsd.m3u8?ps=5&app=live&stream=stream-304148_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", THACH TU
-https://pull.niues.live/live/stream-344370_lsd.m3u8?ps=10&app=live&stream=stream-344370_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", CR BUOI
-https://pull.niues.live/live/stream-387694_lsd.m3u8?ps=7&app=live&stream=stream-387694_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", SIMBA
-https://pull.niues.live/live/stream-337575_lsd.m3u8?ps=11&app=live&stream=stream-337575_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", HO LUN
-https://pull.niues.live/live/stream-308080_lsd.m3u8?ps=10&app=live&stream=stream-308080_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", SOI
-https://pull.niues.live/live/stream-427562_lsd.m3u8?ps=6&app=live&stream=stream-427562_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", DOM
-https://pull.niues.live/live/stream-434982_lsd.m3u8?ps=12&app=live&stream=stream-434982_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", ZICO
-https://pull.niues.live/live/stream-9912081_lsd.m3u8?ps=4&app=live&stream=stream-9912081_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", BAO DEN
-https://pull.niues.live/live/stream-329740_lsd.m3u8?ps=8&app=live&stream=stream-329740_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", MESSI
-https://pull.niues.live/live/stream-494201_lsd.m3u8?ps=11&app=live&stream=stream-494201_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", SUNG A MUP
-https://pull.niues.live/live/stream-9912097_lsd.m3u8?ps=11&app=live&stream=stream-9912097_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", LONG
-https://pull.niues.live/live/stream-9912050_lsd.m3u8?ps=4&app=live&stream=stream-9912050_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", A COI
-https://pull.niues.live/live/stream-278275_lsd.m3u8?ps=7&app=live&stream=stream-278275_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", NGUOI GA
-https://pull.niues.live/live/stream-274345_lsd.m3u8?ps=4&app=live&stream=stream-274345_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", CONG LY
-https://pull.niues.live/live/stream-9912035_lsd.m3u8?ps=1&app=live&stream=stream-9912035_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", DUC JOKER
-https://pull.niues.live/live/stream-468304_lsd.m3u8?ps=1&app=live&stream=stream-468304_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", BIN BIN
-https://pull.niues.live/live/stream-486629_lsd.m3u8?ps=2&app=live&stream=stream-486629_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", KUDO
-https://pull.niues.live/live/stream-334434_lsd.m3u8?ps=2&app=live&stream=stream-334434_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", KEVILL
-https://pull.niues.live/live/stream-477560_lsd.m3u8?ps=11&app=live&stream=stream-477560_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", PIRLO
-https://pull.niues.live/live/stream-351530_lsd.m3u8?ps=3&app=live&stream=stream-351530_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", A PAO
-https://pull.niues.live/live/stream-235232_lsd.m3u8?ps=8&app=live&stream=stream-235232_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", RAM
-https://pull.niues.live/live/stream-9912077_lsd.m3u8?ps=5&app=live&stream=stream-9912077_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", CRIS
-https://pull.niues.live/live/stream-499765_lsd.m3u8?ps=7&app=live&stream=stream-499765_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", VITAMIN
-https://pull.niues.live/live/stream-400722_lsd.m3u8?ps=5&app=live&stream=stream-400722_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", FANTA
-https://pull.niues.live/live/stream-9912048_lsd.m3u8?ps=11&app=live&stream=stream-9912048_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", TOMMY
-https://pull.niues.live/live/stream-414317_lsd.m3u8?ps=2&app=live&stream=stream-414317_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", KAKA
-https://pull.niues.live/live/stream-9912025_lsd.m3u8?ps=2&app=live&stream=stream-9912025_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", ENZO
-https://pull.niues.live/live/stream-380460_lsd.m3u8?ps=11&app=live&stream=stream-380460_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", VAN CHUAN
-https://pull.niues.live/live/stream-389399_lsd.m3u8?ps=9&app=live&stream=stream-389399_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", 10 CEN
-https://pull.niues.live/live/stream-328239_lsd.m3u8?ps=7&app=live&stream=stream-328239_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", ODIN
-https://pull.niues.live/live/stream-9912098_lsd.m3u8?ps=11&app=live&stream=stream-9912098_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", VIP
-https://pull.niues.live/live/stream-491873_lsd.m3u8?ps=3&app=live&stream=stream-491873_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", NIBO
-https://pull.niues.live/live/stream-372746_lsd.m3u8?ps=1&app=live&stream=stream-372746_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", TAO
-https://pull.niues.live/live/stream-479849_lsd.m3u8?ps=11&app=live&stream=stream-479849_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", A CHE
-https://pull.niues.live/live/stream-356042_lsd.m3u8?ps=4&app=live&stream=stream-356042_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", DUBAI
-https://pull.niues.live/live/stream-364855_lsd.m3u8?ps=3&app=live&stream=stream-364855_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", JAXLIE
-https://pull.niues.live/live/stream-365798_lsd.m3u8?ps=2&app=live&stream=stream-365798_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", ANH TAI
-https://pull.niues.live/live/stream-406865_lsd.m3u8?ps=11&app=live&stream=stream-406865_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", THAY PHAN
-https://pull.niues.live/live/stream-9912011_lsd.m3u8?ps=9&app=live&stream=stream-9912011_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", GAU
-https://pull.niues.live/live/stream-304297_lsd.m3u8?ps=12&app=live&stream=stream-304297_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", ZORO
-https://pull.niues.live/live/stream-299144_lsd.m3u8?ps=11&app=live&stream=stream-299144_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", PHI HANH
-https://pull.niues.live/live/stream-9911957_lsd.m3u8?ps=4&app=live&stream=stream-9911957_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", PHAO THU
-https://pull.niues.live/live/stream-474787_lsd.m3u8?ps=4&app=live&stream=stream-474787_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", CAPIE
-https://pull.niues.live/live/stream-266095_lsd.m3u8?ps=5&app=live&stream=stream-266095_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", FANTOM
-https://pull.niues.live/live/stream-326682_lsd.m3u8?ps=6&app=live&stream=stream-326682_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", PHO GA
-https://pull.niues.live/live/stream-259862_lsd.m3u8?ps=4&app=live&stream=stream-259862_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", MONKEY
-https://pull.niues.live/live/stream-336975_lsd.m3u8?ps=6&app=live&stream=stream-336975_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", SAO LA
-https://pull.niues.live/live/stream-462413_lsd.m3u8?ps=2&app=live&stream=stream-462413_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", FLY
-https://pull.niues.live/live/stream-251797_lsd.m3u8?ps=6&app=live&stream=stream-251797_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", JINDO
-https://pull.niues.live/live/stream-488346_lsd.m3u8?ps=8&app=live&stream=stream-488346_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", CONG CHAT
-https://pull.niues.live/live/stream-291277_lsd.m3u8?ps=2&app=live&stream=stream-291277_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", CHIVAS
-https://pull.niues.live/live/stream-485739_lsd.m3u8?ps=8&app=live&stream=stream-485739_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", SATIVA
-https://pull.niues.live/live/stream-321443_lsd.m3u8?ps=1&app=live&stream=stream-321443_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", LIMA
-https://pull.niues.live/live/stream-362913_lsd.m3u8?ps=8&app=live&stream=stream-362913_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", VIT BAC
-https://pull.niues.live/live/stream-474421_lsd.m3u8?ps=4&app=live&stream=stream-474421_lsd&vhost=pull.niues.live
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", XO
-https://pull.niues.live/live/stream-472241_lsd.m3u8?ps=10&app=live&stream=stream-472241_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", GOMA
-https://pull.niues.live/live/stream-371450_lsd.m3u8?ps=11&app=live&stream=stream-371450_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", VIC
-https://pull.niues.live/live/stream-302859_lsd.m3u8?ps=8&app=live&stream=stream-302859_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
+https://pull.niur.live/live/stream-9912096_lsd.m3u8?txSecret=1f91e0184ffff4841402911114d29aa3&txTime=677bb08d
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", SHOGUN
 
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", CU CAI
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?ps=1&app=live&stream=stream-9912091_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", RICARDO
+https://pull.niues.live/live/stream-9912052_lsd.m3u8?ps=5&app=live&stream=stream-9912052_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", CUOI
+https://pull.niur.live/live/stream-256080_lsd.m3u8?txSecret=b5b939a6b1a4ba1c688bc34b8464a874&txTime=677bab29
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", CRIS
+https://pull.niur.live/live/stream-499765_lsd.m3u8?txSecret=45aaaa7c3221186abf14830af7b97fa9&txTime=677baf9d
 
 
 
 
 
 #EXTINF:-1 group-title="Socolive (Tường thuật)" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", SOC TRANG
-https://pull.niues.live/live/stream-9912079_lsd.m3u8?ps=9&app=live&stream=stream-9912079_lsd&vhost=pull.niues.live
+https://pull.niues.live/live/stream-9912079_lsd.m3u8?ps=12&app=live&stream=stream-9912079_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 #EXTINF:-1 group-title="Socolive (Tường thuật)" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", SOC 3000
-https://pull.niues.live/live/stream-179093_lsd.m3u8?ps=9&app=live&stream=stream-179093_lsd&vhost=pull.niues.live
+https://pull.niues.live/live/stream-179093_lsd.m3u8?ps=1&app=live&stream=stream-179093_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 #EXTINF:-1 group-title="Socolive (Tường thuật)" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", SOC MEO MEO MEO
-https://pull.niues.live/live/stream-343500_lsd.m3u8?ps=8&app=live&stream=stream-343500_lsd&vhost=pull.niues.live
+https://pull.niues.live/live/stream-343500_lsd.m3u8?ps=8&app=live&stream=stream-343500_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 #EXTINF:-1 group-title="Socolive (Tường thuật)" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", SOC PHU HO
-https://pull.niues.live/live/stream-133277_lsd.m3u8?ps=4&app=live&stream=stream-133277_lsd&vhost=pull.niues.live
+https://pull.niues.live/live/stream-133277_lsd.m3u8?ps=8&app=live&stream=stream-133277_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 #EXTINF:-1 group-title="Socolive (Tường thuật)" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", SOC CAM LE CAM LET
-https://pull.niues.live/live/stream-152898_lsd.m3u8?ps=10&app=live&stream=stream-152898_lsd&vhost=pull.niues.live
+https://pull.niues.live/live/stream-152898_lsd.m3u8?ps=8&app=live&stream=stream-152898_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 #EXTINF:-1 group-title="Socolive (Tường thuật)" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", SOC CHO DIEN
-https://pull.niues.live/live/stream-133824_lsd.m3u8?ps=12&app=live&stream=stream-133824_lsd&vhost=pull.niues.live
+https://pull.niues.live/live/stream-133824_lsd.m3u8?ps=3&app=live&stream=stream-133824_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 #EXTINF:-1 group-title="Socolive (Tường thuật)" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", SOC CA MAP
-https://pull.niues.live/live/stream-170578_lsd.m3u8?ps=10&app=live&stream=stream-170578_lsd&vhost=pull.niues.live
+https://pull.niues.live/live/stream-170578_lsd.m3u8?ps=8&app=live&stream=stream-343500_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 #EXTINF:-1 group-title="Socolive (Tường thuật)" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", SOC MAT MAP
-https://pull.niues.live/live/stream-294884_lsd.m3u8?ps=12&app=live&stream=stream-294884_lsd&vhost=pull.niues.live
+https://pull.niues.live/live/stream-294884_lsd.m3u8?ps=8&app=live&stream=stream-343500_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 #EXTINF:-1 group-title="Socolive (Tường thuật)" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", SOC DO LA
-https://pull.niues.live/live/stream-184654_lsd.m3u8?ps=10&app=live&stream=stream-184654_lsd&vhost=pull.niues.live
+https://pull.niues.live/live/stream-184654_lsd.m3u8?ps=8&app=live&stream=stream-343500_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 #EXTINF:-1 group-title="Socolive (Tường thuật)" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", SOC A LOI
-https://pull.niues.live/live/stream-445373_lsd.m3u8?ps=6&app=live&stream=stream-445373_lsd&vhost=pull.niues.live
+https://pull.niues.live/live/stream-445373_lsd.m3u8?ps=8&app=live&stream=stream-343500_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 #EXTINF:-1 group-title="Socolive (Tường thuật)" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", SOC MONG NANG
-https://pull.niues.live/live/stream-156593_lsd.m3u8?ps=4&app=live&stream=stream-156593_lsd&vhost=pull.niues.live
+https://pull.niues.live/live/stream-156593_lsd.m3u8?ps=8&app=live&stream=stream-343500_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 #EXTINF:-1 group-title="Socolive (Tường thuật)" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", SOC TY PHU
-https://pull.niues.live/live/stream-351002_lsd.m3u8?ps=6&app=live&stream=stream-351002_lsd&vhost=pull.niues.live
+https://pull.niues.live/live/stream-351002_lsd.m3u8?ps=8&app=live&stream=stream-343500_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 
 #EXTINF:-1 group-title="CaKhia.TV (SD1)" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg", CAKHIA Thợ Lặn
 https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@lansd1/chunklist.m3u8
