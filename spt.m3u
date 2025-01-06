@@ -1,12 +1,12 @@
 #EXTINF:-1 group-title="Introduction" tvg-logo="https://i.ibb.co/jVq4xcp/soccer-player.png", Sources: Socolive-CaKhiaTV (SD)
 http://184.164.80.141/pukas.ts
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", DECO
-
+https://pull.niur.live/live/stream-9912060_lsd.m3u8?txSecret=d099a9715f0a7de24e01ac3fc11438f6&txTime=677be50d
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", TAP
 https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=8e72462dcdc7579239316c80a1682f6c&txTime=677badf9
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", RICKHANTER (Temp)
-
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", SINGER (Temp)
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", RICKHANTER
+https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=d66698ab0c63b6f2ae32dd379496e103&txTime=677be549
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", SINGER
 
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", TA BIEN GIOI
 https://pull.niur.live/live/stream-9912096_lsd.m3u8?txSecret=1f91e0184ffff4841402911114d29aa3&txTime=677bb08d
