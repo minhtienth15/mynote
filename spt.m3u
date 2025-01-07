@@ -48,9 +48,16 @@ https://pull.niues.live/live/stream-500605_lsd.m3u8?ps=4&app=live&stream=stream-
 https://pull.niues.live/live/stream-389399_lsd.m3u8?ps=3&app=live&stream=stream-389399_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", STING
 https://pull.niues.live/live/stream-9912016_lsd.m3u8?ps=7&app=live&stream=stream-9912016_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
-
-
-
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", CHI DAN
+https://pull.niues.live/live/stream-265767_lsd.m3u8?ps=8&app=live&stream=stream-265767_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", PIRLO
+https://pull.niues.live/live/stream-351530_lsd.m3u8?ps=12&app=live&stream=stream-351530_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", TOMIA
+https://pull.niues.live/live/stream-9912008_lsd.m3u8?ps=4&app=live&stream=stream-9912008_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", SUNG A MUP
+https://pull.niues.live/live/stream-9912097_lsd.m3u8?ps=11&app=live&stream=stream-9912097_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", CONG LY
+https://pull.niues.live/live/stream-9912035_lsd.m3u8s?ps=11&app=live&stream=stream-9912035_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 
 
 #EXTINF:-1 group-title="Socolive (Tường thuật)" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", SOC TRANG
