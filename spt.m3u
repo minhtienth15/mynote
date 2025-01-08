@@ -54,10 +54,20 @@ https://pull.niues.live/live/stream-265767_lsd.m3u8?ps=8&app=live&stream=stream-
 https://pull.niues.live/live/stream-351530_lsd.m3u8?ps=12&app=live&stream=stream-351530_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", TOMIA
 https://pull.niues.live/live/stream-9912008_lsd.m3u8?ps=4&app=live&stream=stream-9912008_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", SHOGUN
+https://pull.niues.live/live/stream-9912007_lsd.m3u8?ps=9&app=live&stream=stream-9912007_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", SUNG A MUP
 https://pull.niues.live/live/stream-9912097_lsd.m3u8?ps=11&app=live&stream=stream-9912097_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", CONG LY
 https://pull.niues.live/live/stream-9912035_lsd.m3u8s?ps=11&app=live&stream=stream-9912035_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", SOI
+https://pull.niues.live/live/stream-427562_lsd.m3u8?ps=4&app=live&stream=stream-427562_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", AK47
+https://pull.niues.live/live/stream-9912092_lsd.m3u8?ps=3&app=live&stream=stream-9912092_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", KAI
+https://pull.niues.live/live/stream-313971_lsd.m3u8?ps=6&app=live&stream=stream-313971_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", XUAN SON
+https://pull.niues.live/live/stream-501412_lsd.m3u8?ps=1&app=live&stream=stream-501412_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 
 
 #EXTINF:-1 group-title="Socolive (Tường thuật)" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", SOC TRANG
