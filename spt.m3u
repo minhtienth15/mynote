@@ -86,20 +86,12 @@ https://pull.niues.live/live/stream-327159_lsd.m3u8?ps=1&app=live&stream=stream-
 https://pull.niues.live/live/stream-9912081_lsd.m3u8?ps=2&app=live&stream=stream-9912081_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", SOI
 https://pull.niues.live/live/stream-427562_lsd.m3u8?ps=10&app=live&stream=stream-427562_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", CUOI
+https://pull.niues.live/live/stream-256080_lsd.m3u8?ps=11&app=live&stream=stream-256080_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", A CHE
+https://pull.niues.live/live/stream-356042_lsd.m3u8?ps=7&app=live&stream=stream-356042_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", VIP
+https://pull.niues.live/live/stream-491873_lsd.m3u8?ps=6&app=live&stream=stream-491873_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 
 
 #EXTINF:-1 group-title="Socolive (Tường thuật)" tvg-logo="https://i.imgur.com/9TG2kkI.jpg", SOC TRANG
