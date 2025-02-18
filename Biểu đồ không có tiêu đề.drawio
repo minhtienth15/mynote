@@ -4,6 +4,36 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ZU32IizSrnA32IaH0doB-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="250" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZU32IizSrnA32IaH0doB-2" value="&lt;h2&gt;Truy cập trang chủ&lt;/h2&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="40" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZU32IizSrnA32IaH0doB-3" value="&lt;h2&gt;Tìm kiếm tin tức&lt;/h2&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="140" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZU32IizSrnA32IaH0doB-4" value="&lt;h2&gt;Xem tin tức theo danh mục&lt;/h2&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="240" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZU32IizSrnA32IaH0doB-5" value="&lt;h2&gt;Xem hình ảnh trong bài viết&lt;/h2&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="340" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZU32IizSrnA32IaH0doB-6" value="&lt;h2&gt;Xem nguồn tin gốc&lt;/h2&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="440" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZU32IizSrnA32IaH0doB-7" value="&lt;h2&gt;Đăng nhập hệ thống&lt;/h2&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="544.5" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZU32IizSrnA32IaH0doB-8" value="&lt;h2&gt;Quản lý bài viết&lt;/h2&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="650" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZU32IizSrnA32IaH0doB-9" value="&lt;h2&gt;Quản lý API&lt;/h2&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="760" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZU32IizSrnA32IaH0doB-10" value="&lt;h2&gt;Xem báo cáo thống kê&lt;/h2&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="870" width="250" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
