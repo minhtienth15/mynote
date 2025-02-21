@@ -17,10 +17,10 @@
           <mxGeometry x="274" y="340" width="250" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZU32IizSrnA32IaH0doB-7" value="&lt;h2&gt;Đăng nhập hệ thống&lt;/h2&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="274" y="440" width="250" height="80" as="geometry" />
+          <mxGeometry x="274" y="545" width="250" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZU32IizSrnA32IaH0doB-9" value="&lt;h2&gt;Thêm bài viết&lt;/h2&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="274" y="545.5" width="250" height="80" as="geometry" />
+          <mxGeometry x="274" y="650" width="250" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rPg01ZpCgp__U0FlaiiM-2" value="&lt;div&gt;Khách truy cập&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="79" y="480" width="100" height="30" as="geometry" />
@@ -50,19 +50,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rPg01ZpCgp__U0FlaiiM-19" value="&lt;b&gt;Use case hệ thống blog cá nhân&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="94" y="80" width="640" height="40" as="geometry" />
+          <mxGeometry x="84" y="20" width="640" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="e1_3AWQBYJebTb_OyHbs-4" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZU32IizSrnA32IaH0doB-7" target="rPg01ZpCgp__U0FlaiiM-7">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="610" y="440" as="sourcePoint" />
-            <mxPoint x="660" y="390" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="e1_3AWQBYJebTb_OyHbs-5" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZU32IizSrnA32IaH0doB-9" target="rPg01ZpCgp__U0FlaiiM-7">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="524" y="585" as="sourcePoint" />
-            <mxPoint x="574" y="535" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="e1_3AWQBYJebTb_OyHbs-6" value="&lt;h2&gt;Gửi ý kiến đóng góp&lt;/h2&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="274" y="440" width="250" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
