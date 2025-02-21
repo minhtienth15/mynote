@@ -73,8 +73,8 @@
         <mxCell id="rPg01ZpCgp__U0FlaiiM-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="40" y="40" width="730" height="730" as="geometry" />
         </mxCell>
-        <mxCell id="rPg01ZpCgp__U0FlaiiM-19" value="&lt;b&gt;Use case hệ thống trang web tin tức lấy qua API NewsData&amp;nbsp;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="80" y="80" width="640" height="40" as="geometry" />
+        <mxCell id="rPg01ZpCgp__U0FlaiiM-19" value="&lt;b&gt;Use case hệ thống tin tức lấy qua API NewsData&amp;nbsp;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="94" y="80" width="640" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
