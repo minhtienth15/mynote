@@ -1,0 +1,61 @@
+_S NPUZ-00133
+_G Alpha Mission (Minis) [USA]
+_C0 Inf Credits
+_L 0x01283FF6 0x00000099
+_C0 Inf Lives
+_L 0x0128356B 0x00000009
+_C0 Invincibility
+_L 0x01283555 0x00000000
+_C0 Rapid Fire Laser
+_L 0x0128357E 0x00000000
+_C0 Rapid Fire Missiles
+_L 0x0128357F 0x00000000
+_C0 Max Speed and Firepower
+_L 0x01283581 0x0000003F
+_C0 Energy Gauge Always Full
+_L 0x51283588 0x00000001
+_L 0x01283587 0x00000000
+_C0 Max Energy Gauge
+_L 0x01283588 0x00000018
+_C0 Equipped Weapon Mod.     [1]
+_L 0xD0000000 0x10000110
+_L 0x01283549 0x00000001
+_L 0x01283549 0x00000002
+_L 0xD0000000 0x10000140
+_L 0x01283549 0x00000003
+_L 0xD0000000 0x10000180
+_L 0x01283549 0x00000004
+_L 0xD0000000 0x10000210
+_L 0x01283549 0x00000005
+_L 0xD0000000 0x10000220
+_L 0x01283549 0x00000006
+_L 0xD0000000 0x10000240
+_L 0x01283549 0x00000007
+_L 0xD0000000 0x10000280
+_L 0x01283549 0x00000008
+_C0 One Part to Get Armor
+_L 0x0128C725 0x00000006
+_L 0x0128C726 0x00000003
+_L 0x0128C727 0x00000000
+_C0 Have All Armors
+_L 0x01283584 0x000000FF
+_C0 Item Boxes Always Open
+_L 0x01283556 0x00000005
+_C0 B Panels Always Worth 8000pts
+_L 0x0128C2FF 0x000000B1
+_L 0x1128C302 0x000001FF
+_C0 +----------------------------+
+_C0 | [1] EQUIPPED WEAPON MOD.   |
+_C0 | -------------------------- |
+_C0 | * press the Equip button * |
+_C0 | *    to clear effects    * |
+_C0 | -------------------------- |
+_C0 | L+UP - Oct Armor           |
+_C0 | L+RIGHT - Shield Armor     |
+_C0 | L+DOWN - Cannon Armor      |
+_C0 | L+LEFT - Homing Armor      |
+_C0 | R+UP - Paralyz Armor       |
+_C0 | R+RIGHT - Nuclear Armor    |
+_C0 | R+DOWN - Fire Armor        |
+_C0 | R+LEFT - Thunder Armor     |
+_C0 +----------------------------+
