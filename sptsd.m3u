@@ -187,3 +187,9 @@ https://ckcdn.livestreameuro.live/live/sunsd1/playlist.m3u8
 #EXTINF:-1 group-title="CaKhia.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Độ
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz
 https://ckcdn.livestreameuro.live/live/dosd1/playlist.m3u8
+#EXTINF:-1 group-title="CaKhia.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Táo
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz
+https://ckcdn.livestreameuro.live/live/taosd1/playlist.m3u8
+#EXTINF:-1 group-title="CaKhia.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Phang (Ngộ Không)
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz
+https://ckcdn.livestreameuro.live/live/phangsd1/playlist.m3u8
