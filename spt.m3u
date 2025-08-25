@@ -170,6 +170,9 @@ https://hls.cdnokvip.com/live/GUMA/index.m3u8
 https://hls.cdnokvip.com/live/TANCA/index.m3u8
 #EXTINF:-1 group-title="LuongSon.TV" tvg-logo="https://i.imghippo.com/files/Kbfa7244LbM.jpg", LU TUAN NGHIA
 https://hls.cdnokvip.com/live/LUTUANNGHIA1/index.m3u8
+#EXTINF:-1 group-title="LuongSon.TV" tvg-logo="https://i.imghippo.com/files/Kbfa7244LbM.jpg", CHU DONG
+https://hls.cdnokvip.com/live/CHUDONG/index.m3u8
+
 
 
 #EXTINF:-1 group-title="CaKhia.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Thợ Lặn
@@ -223,5 +226,6 @@ https://ugh-ht9h.onrender.com/getlinkplay.php?referrer=https://watch.rkplayer.xy
 https://ugh-ht9h.onrender.com/getlinkplay.php?referrer=https://watch.rkplayer.xyz/&url=https://qtcdn.livestreameuro.live/live/bachlongmasd1.flv
 #EXTINF:-1 group-title="QT.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Phủ (Đường Tăng)
 https://ugh-ht9h.onrender.com/getlinkplay.php?referrer=https://watch.rkplayer.xyz/&url=https://qtcdn.livestreameuro.live/live/phusd1.flv
+
 
 
