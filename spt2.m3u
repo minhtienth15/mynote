@@ -1,3 +1,56 @@
+#EXTINF:-1 group-title="LuongSon.TV" tvg-logo="https://i.imgur.com/4wvimal.png", VI TIEU BAO
+https://hls.cdnokvip.com/live/VITIEUBAO/index.m3u8
+#EXTINF:-1 group-title="LuongSon.TV" tvg-logo="https://i.imgur.com/4wvimal.png", KENCHU
+https://hls.cdnokvip.com/live/KENCHU/index.m3u8
+#EXTINF:-1 group-title="LuongSon.TV" tvg-logo="https://i.imgur.com/4wvimal.png", DUONG HUNG
+https://hls.cdnokvip.com/live/BLVDUONGHUNG1/index.m3u8
+#EXTINF:-1 group-title="LuongSon.TV" tvg-logo="https://i.imgur.com/4wvimal.png", YEN THANH
+https://hls.cdnokvip.com/live/YENTHANH1/index.m3u8
+#EXTINF:-1 group-title="LuongSon.TV" tvg-logo="https://i.imgur.com/4wvimal.png", RICARDO
+https://hls.cdnokvip.com/live/RICARDO/index.m3u8
+#EXTINF:-1 group-title="LuongSon.TV" tvg-logo="https://i.imgur.com/4wvimal.png", LU BO
+https://hls.cdnokvip.com/live/LUBO/index.m3u8
+#EXTINF:-1 group-title="LuongSon.TV" tvg-logo="https://i.imgur.com/4wvimal.png", NGU CA
+https://hls.cdnokvip.com/live/NGUCA/index.m3u8
+#EXTINF:-1 group-title="LuongSon.TV" tvg-logo="https://i.imgur.com/4wvimal.png", NHI KA
+https://hls.cdnokvip.com/live/NHIKA1/index.m3u8
+#EXTINF:-1 group-title="LuongSon.TV" tvg-logo="https://i.imgur.com/4wvimal.png", ZORO
+https://hls.cdnokvip.com/live/ZORO/index.m3u8
+#EXTINF:-1 group-title="LuongSon.TV" tvg-logo="https://i.imgur.com/4wvimal.png", KEVILL
+https://hls.cdnokvip.com/live/KEVILL/index.m3u8
+#EXTINF:-1 group-title="LuongSon.TV" tvg-logo="https://i.imgur.com/4wvimal.png", LY UNG
+https://hls.cdnokvip.com/live/LYUNG1/index.m3u8
+#EXTINF:-1 group-title="LuongSon.TV" tvg-logo="https://i.imgur.com/4wvimal.png", DUONG CHI
+https://hls.cdnokvip.com/live/DUONGCHI/index.m3u8
+#EXTINF:-1 group-title="LuongSon.TV" tvg-logo="https://i.imgur.com/4wvimal.png", KHONG MINH
+https://hls.cdnokvip.com/live/KHONGMINH/index.m3u8
+#EXTINF:-1 group-title="LuongSon.TV" tvg-logo="https://i.imgur.com/4wvimal.png", THACH TU
+https://hls.cdnokvip.com/live/THACHTU/index.m3u8
+#EXTINF:-1 group-title="LuongSon.TV" tvg-logo="https://i.imgur.com/4wvimal.png", URA
+https://hls.cdnokvip.com/live/URA/index.m3u8
+#EXTINF:-1 group-title="LuongSon.TV" tvg-logo="https://i.imgur.com/4wvimal.png", VUONG ANH
+https://hls.cdnokvip.com/live/VUONGANH/index.m3u8
+#EXTINF:-1 group-title="LuongSon.TV" tvg-logo="https://i.imgur.com/4wvimal.png", TRUONG THANH
+https://hls.cdnokvip.com/live/TRUONGTHANH/index.m3u8
+#EXTINF:-1 group-title="LuongSon.TV" tvg-logo="https://i.imgur.com/4wvimal.png", SACH SIEU
+https://hls.cdnokvip.com/live/SACHSIEU1/index.m3u8
+#EXTINF:-1 group-title="LuongSon.TV" tvg-logo="https://i.imgur.com/4wvimal.png", DUONG QUA
+https://hls.cdnokvip.com/live/DUONGQUA/index.m3u8
+#EXTINF:-1 group-title="LuongSon.TV" tvg-logo="https://i.imgur.com/4wvimal.png", LUU BI
+https://hls.cdnokvip.com/live/LUUBI/index.m3u8
+#EXTINF:-1 group-title="LuongSon.TV" tvg-logo="https://i.imgur.com/4wvimal.png", TON LAP
+https://hls.cdnokvip.com/live/TONLAP/index.m3u8
+#EXTINF:-1 group-title="LuongSon.TV" tvg-logo="https://i.imgur.com/4wvimal.png", VUONG LUAN
+https://hls.cdnokvip.com/live/VUONGLUAN/index.m3u8
+#EXTINF:-1 group-title="LuongSon.TV" tvg-logo="https://i.imgur.com/4wvimal.png", GUMA
+https://hls.cdnokvip.com/live/GUMA/index.m3u8
+#EXTINF:-1 group-title="LuongSon.TV" tvg-logo="https://i.imgur.com/4wvimal.png", TAN CA
+https://hls.cdnokvip.com/live/TANCA/index.m3u8
+#EXTINF:-1 group-title="LuongSon.TV" tvg-logo="https://i.imgur.com/4wvimal.png", LU TUAN NGHIA
+https://hls.cdnokvip.com/live/LUTUANNGHIA1/index.m3u8
+#EXTINF:-1 group-title="LuongSon.TV" tvg-logo="https://i.imgur.com/4wvimal.png", CHU DONG
+https://hls.cdnokvip.com/live/CHUDONG/index.m3u8
+
 #EXTINF:-1 group-title="CaKhia.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Thợ Lặn
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckhot-179939170.cdnfree.pro/live/lansd2/chunklist.m3u8
