@@ -147,67 +147,72 @@ https://pull.niues.live/live/stream-351002_lsd.m3u8?ps=4&app=live&stream=stream-
 
 
 #EXTINF:-1 group-title="CaKhia.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Thợ Lặn
-https://ugh-ht9h.onrender.com/getlinkplay.php?referrer=https://watch.rkplayer.xyz/&url=https://ckhot-179939170.cdnfree.pro/live/lansd2/playlist.m3u8
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@lansd1/chunklist.m3u8
 #EXTINF:-1 group-title="CaKhia.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA H+
-https://ugh-ht9h.onrender.com/getlinkplay.php?referrer=https://watch.rkplayer.xyz/&url=https://ckhot-179939170.cdnfree.pro/live/hplussd2/playlist.m3u8
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@hplussd1/chunklist.m3u8
 #EXTINF:-1 group-title="CaKhia.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Tây Môn Chuối
-https://ugh-ht9h.onrender.com/getlinkplay.php?referrer=https://watch.rkplayer.xyz/&url=https://ckhot-179939170.cdnfree.pro/live/chuoisd2/playlist.m3u8
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@chuoisd1/chunklist.m3u8
 #EXTINF:-1 group-title="CaKhia.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Lử
-https://ugh-ht9h.onrender.com/getlinkplay.php?referrer=https://watch.rkplayer.xyz/&url=https://ckhot-179939170.cdnfree.pro/live/lusd2/playlist.m3u8
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@lusd1/chunklist.m3u8
 #EXTINF:-1 group-title="CaKhia.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Cay
-https://ugh-ht9h.onrender.com/getlinkplay.php?referrer=https://watch.rkplayer.xyz/&url=https://ckhot-179939170.cdnfree.pro/live/caysd2/playlist.m3u8
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@caysd1/chunklist.m3u8
 #EXTINF:-1 group-title="CaKhia.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Lú
-https://ugh-ht9h.onrender.com/getlinkplay.php?referrer=https://watch.rkplayer.xyz/&url=https://ckhot-179939170.cdnfree.pro/live/lulusd2/playlist.m3u8
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@lulusd1/chunklist.m3u8
 #EXTINF:-1 group-title="CaKhia.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Páo
-https://ugh-ht9h.onrender.com/getlinkplay.php?referrer=https://watch.rkplayer.xyz/&url=https://ckhot-179939170.cdnfree.pro/live/paosd2/playlist.m3u8
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@paosd1/chunklist.m3u8
 #EXTINF:-1 group-title="CaKhia.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Phò
-https://ugh-ht9h.onrender.com/getlinkplay.php?referrer=https://watch.rkplayer.xyz/&url=https://ckhot-179939170.cdnfree.pro/live/cakhiasd2/playlist.m3u8
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@cakhiasd1/chunklist.m3u8
 #EXTINF:-1 group-title="CaKhia.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Cỏ
-https://ugh-ht9h.onrender.com/getlinkplay.php?referrer=https://watch.rkplayer.xyz/&url=https://ckhot-179939170.cdnfree.pro/live/cosd2/playlist.m3u8
-#EXTINF:-1 group-title="CaKhia.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Bịp
-https://ugh-ht9h.onrender.com/getlinkplay.php?referrer=https://watch.rkplayer.xyz/&url=https://ckhot-179939170.cdnfree.pro/live/bipsd2/playlist.m3u8
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@cosd1/chunklist.m3u8
 #EXTINF:-1 group-title="CaKhia.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Heo
-https://ugh-ht9h.onrender.com/getlinkplay.php?referrer=https://watch.rkplayer.xyz/&url=https://ckhot-179939170.cdnfree.pro/live/heosd2/playlist.m3u8
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@heosd1/chunklist.m3u8
+#EXTINF:-1 group-title="CaKhia.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Bịp
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@bipsd1/chunklist.m3u8
+
+
 #EXTINF:-1 group-title="CaKhia.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Sún
-https://ugh-ht9h.onrender.com/getlinkplay.php?referrer=https://watch.rkplayer.xyz/&url=https://ckhot-179939170.cdnfree.pro/live/sunsd2/playlist.m3u8
-#EXTINF:-1 group-title="CaKhia.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Độ
-https://ugh-ht9h.onrender.com/getlinkplay.php?referrer=https://watch.rkplayer.xyz/&url=https://ckhot-179939170.cdnfree.pro/live/dosd2/playlist.m3u8
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@sunsd1/chunklist.m3u8
+
+
 #EXTINF:-1 group-title="CaKhia.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Táo
-https://ugh-ht9h.onrender.com/getlinkplay.php?referrer=https://watch.rkplayer.xyz/&url=https://ckhot-179939170.cdnfree.pro/live/taosd2/playlist.m3u8
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@taosd1/chunklist.m3u8
 #EXTINF:-1 group-title="CaKhia.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Tích
-https://ugh-ht9h.onrender.com/getlinkplay.php?referrer=https://watch.rkplayer.xyz/&url=https://ckhot-179939170.cdnfree.pro/live/tichsd2/playlist.m3u8
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@tichsd1/chunklist.m3u8
 #EXTINF:-1 group-title="CaKhia.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Bùi
-https://ugh-ht9h.onrender.com/getlinkplay.php?referrer=https://watch.rkplayer.xyz/&url=https://ckhot-179939170.cdnfree.pro/live/buisd2/playlist.m3u8
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@buisd1/chunklist.m3u8
 #EXTINF:-1 group-title="CaKhia.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Mu
-https://ugh-ht9h.onrender.com/getlinkplay.php?referrer=https://watch.rkplayer.xyz/&url=https://ckhot-179939170.cdnfree.pro/live/musd2/playlist.m3u8
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@musd1/chunklist.m3u8
 #EXTINF:-1 group-title="CaKhia.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Bờm
-https://ugh-ht9h.onrender.com/getlinkplay.php?referrer=https://watch.rkplayer.xyz/&url=https://ckhot-179939170.cdnfree.pro/live/bomsd2/playlist.m3u8
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@bomsd1/chunklist.m3u8
 #EXTINF:-1 group-title="CaKhia.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Mao
-https://ugh-ht9h.onrender.com/getlinkplay.php?referrer=https://watch.rkplayer.xyz/&url=https://ckhot-179939170.cdnfree.pro/live/maosd2/playlist.m3u8
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@maosd1/chunklist.m3u8
 #EXTINF:-1 group-title="CaKhia.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Nứng
-https://ugh-ht9h.onrender.com/getlinkplay.php?referrer=https://watch.rkplayer.xyz/&url=https://ckhot-179939170.cdnfree.pro/live/nungsd2/playlist.m3u8
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@nungsd1/chunklist.m3u8
 #EXTINF:-1 group-title="CaKhia.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Say
-https://ugh-ht9h.onrender.com/getlinkplay.php?referrer=https://watch.rkplayer.xyz/&url=https://ckhot-179939170.cdnfree.pro/live/saysd2/playlist.m3u8
-#EXTINF:-1 group-title="CaKhia.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Mõm
-https://ugh-ht9h.onrender.com/getlinkplay.php?referrer=https://watch.rkplayer.xyz/&url=https://ckhot-179939170.cdnfree.pro/live/momsd2/playlist.m3u8
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@saysd1/chunklist.m3u8
 
 
 
 
+
+
+#EXTINF:-1 group-title="QT.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Mõm
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@momsd1/chunklist.m3u8
 #EXTINF:-1 group-title="QT.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Phang (Ngộ Không)
-https://ugh-ht9h.onrender.com/getlinkplay.php?referrer=https://watch.rkplayer.xyz/&url=https://ckhot-179939170.cdnfree.pro/live/phangsd2/playlist.m3u8
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@phangsd1/chunklist.m3u8
 #EXTINF:-1 group-title="QT.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Dương Tiễn
-https://ugh-ht9h.onrender.com/getlinkplay.php?referrer=https://watch.rkplayer.xyz/&url=https://ckhot-179939170.cdnfree.pro/live/duongtiensd2/playlist.m3u8
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@duongtiensd1/chunklist.m3u8
 #EXTINF:-1 group-title="QT.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Na Tra
-https://ugh-ht9h.onrender.com/getlinkplay.php?referrer=https://watch.rkplayer.xyz/&url=https://ckhot-179939170.cdnfree.pro/live/natrasd2/playlist.m3u8
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@natrasd1/chunklist.m3u8
 #EXTINF:-1 group-title="QT.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Ngưu Ma Vương
-https://ugh-ht9h.onrender.com/getlinkplay.php?referrer=https://watch.rkplayer.xyz/&url=https://ckhot-179939170.cdnfree.pro/live/nguumavuongsd2/playlist.m3u8
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@nguumavuongsd1/chunklist.m3u8
 #EXTINF:-1 group-title="QT.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Bạch Long Mã
-https://ugh-ht9h.onrender.com/getlinkplay.php?referrer=https://watch.rkplayer.xyz/&url=https://ckhot-179939170.cdnfree.pro/live/bachlongmasd2/playlist.m3u8
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@bachlongmasd1/chunklist.m3u8
 #EXTINF:-1 group-title="QT.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Phủ (Đường Tăng)
-https://ugh-ht9h.onrender.com/getlinkplay.php?referrer=https://watch.rkplayer.xyz/&url=https://ckhot-179939170.cdnfree.pro/live/phusd2/playlist.m3u8
+https://cakhiapro.cdnlive.pro/live/_definst_/stream_9_f915e9e2@phusd1/chunklist.m3u8
 #EXTINF:-1 group-title="QT.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Thợ Xây (XAYCON.LIVE)
 https://pull.xayconnn.live/cast/01/index.m3u8
 #EXTINF:-1 group-title="QT.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Lôi (HOIQUAN.LIVE)
 https://ugh-ht9h.onrender.com/getlinkplay.php?referrer=https://sv2.hoiquan.live/&url=https://dipl0825.edgemaxcdn.org/live/hqtv_blv_thienloi/playlist.m3u8
+
 
