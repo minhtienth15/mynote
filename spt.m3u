@@ -136,7 +136,8 @@ https://pull.niues.live/live/stream-547345_lsd.m3u8?ps=1&app=live&stream=stream-
 https://pull.niues.live/live/stream-531989_lsd.m3u8?ps=1&app=live&stream=stream-531989_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://picsum.photos/200", VIP
 https://pull.niues.live/live/stream-491873_lsd.m3u8?ps=1&app=live&stream=stream-491873_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
-
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://picsum.photos/200", A TU
+https://pull.niues.live/live/stream-557845_lsd.m3u8?ps=1&app=live&stream=stream-557845_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 
 #EXTINF:-1 group-title="Socolive_TT" tvg-logo="https://picsum.photos/200", SOC TRONG RUNG XA NU
 https://pull.niues.live/live/stream-9912079_lsd.m3u8?ps=4&app=live&stream=stream-9912079_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
@@ -294,3 +295,4 @@ https://pull.xayconnn.live/cast/06/index.m3u8
 https://pull.xayconnn.live/cast/01/index.m3u8
 #EXTINF:-1 group-title="QT.TV" tvg-logo="https://picsum.photos/200", CAKHIA Giàng A Lôi (HOIQUAN.LIVE)
 https://ugh-ht9h.onrender.com/getlinkplay.php?referrer=https://sv2.hoiquan.live/&url=https://tldm0825.edgemaxcdn.org/hqtv_blv_thienloi/tracks-v1a1/playlist.m3u8
+
