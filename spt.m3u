@@ -156,7 +156,7 @@ https://mrkw1025.edgemaxcdn.org/live/cakhiasd1/playlist.m3u8
 #EXTINF:-1 group-title="CaKhia.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Cỏ
 https://mrkw1025.edgemaxcdn.org/live/cosd1/playlist.m3u8
 #EXTINF:-1 group-title="CaKhia.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Heo
-https://mrkw1025.edgemaxcdn.org/live/heosd1/playlist.m3u8
+https://mrkw1025.edgemaxcdn.org/live/heosd1CK/playlist.m3u8
 #EXTINF:-1 group-title="CaKhia.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Sún
 https://mrkw1025.edgemaxcdn.org/live/sunsd1/playlist.m3u8
 #EXTINF:-1 group-title="CaKhia.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Táo
@@ -202,6 +202,7 @@ https://pull.xayconnn.live/cast/06/index.m3u8
 https://pull.xayconnn.live/cast/01/index.m3u8
 #EXTINF:-1 group-title="QT.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Lôi (HOIQUAN.LIVE)
 https://ugh-ht9h.onrender.com/getlinkplay.php?referrer=https://sv2.hoiquan.live/&url=https://tldm0825.edgemaxcdn.org/hqtv_blv_thienloi/tracks-v1a1/playlist.m3u8
+
 
 
 
