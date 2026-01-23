@@ -161,28 +161,18 @@ https://mrkw1025.edgemaxcdn.org/live/cosd1/playlist.m3u8
 https://mrkw1025.edgemaxcdn.org/live/heosd1CK/playlist.m3u8
 #EXTINF:-1 group-title="CaKhia.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Sún
 https://mrkw1025.edgemaxcdn.org/live/sunsd1/playlist.m3u8
-#EXTINF:-1 group-title="CaKhia.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Táo
-https://mrkw1025.edgemaxcdn.org/live/taosd1/playlist.m3u8
-#EXTINF:-1 group-title="CaKhia.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Tích
-https://mrkw1025.edgemaxcdn.org/live/tichsd1/playlist.m3u8
 #EXTINF:-1 group-title="CaKhia.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Bùi
 https://mrkw1025.edgemaxcdn.org/live/buisd1/playlist.m3u8
 #EXTINF:-1 group-title="CaKhia.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Mu
 https://mrkw1025.edgemaxcdn.org/live/musd1/playlist.m3u8
-#EXTINF:-1 group-title="CaKhia.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Bờm
-https://mrkw1025.edgemaxcdn.org/live/bomsd1/playlist.m3u8
 #EXTINF:-1 group-title="CaKhia.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Mao
 https://mrkw1025.edgemaxcdn.org/live/maosd1/playlist.m3u8
 #EXTINF:-1 group-title="CaKhia.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Nứng
 https://mrkw1025.edgemaxcdn.org/live/nungsd1/playlist.m3u8
 #EXTINF:-1 group-title="CaKhia.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Say
 https://mrkw1025.edgemaxcdn.org/live/saysd1/playlist.m3u8
-#EXTINF:-1 group-title="CaKhia.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Dzái
-https://mrkw1025.edgemaxcdn.org/live/daisd1/playlist.m3u8
 #EXTINF:-1 group-title="CaKhia.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Ngao
 https://mrkw1025.edgemaxcdn.org/live/ngaosd1/playlist.m3u8
-#EXTINF:-1 group-title="CaKhia.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Chánh
-https://mrkw1025.edgemaxcdn.org/live/chanhsd1/playlist.m3u8
 #EXTINF:-1 group-title="CaKhia.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Đỏ
 https://mrkw1025.edgemaxcdn.org/live/dosd1/playlist.m3u8
 #EXTINF:-1 group-title="CaKhia.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Mõm
@@ -191,19 +181,18 @@ https://mrkw1025.edgemaxcdn.org/live/momsd1/playlist.m3u8
 https://mrkw1025.edgemaxcdn.org/live/phangsd1/playlist.m3u8
 #EXTINF:-1 group-title="CaKhia.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Dương Tiễn
 https://mrkw1025.edgemaxcdn.org/live/duongtiensd1/playlist.m3u8
-#EXTINF:-1 group-title="CaKhia.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Na Tra
-https://mrkw1025.edgemaxcdn.org/live/natrasd1/playlist.m3u8
 #EXTINF:-1 group-title="CaKhia.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Ngưu Ma Vương
 https://mrkw1025.edgemaxcdn.org/live/nguumavuongsd1/playlist.m3u8
 #EXTINF:-1 group-title="CaKhia.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Phủ (Đường Tăng)
 https://mrkw1025.edgemaxcdn.org/live/phusd1/playlist.m3u8
 
 #EXTINF:-1 group-title="QT.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Bịp (XAYCON.LIVE)
-https://pull.xayconnn.live/cast/06/index.m3u8
+https://p7sf1225.edgemaxcdn.org/xctv_blv_bipcon/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="QT.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Thợ Xây (XAYCON.LIVE)
-https://pull.xayconnn.live/cast/01/index.m3u8
+https://p7sf1225.edgemaxcdn.org/xctv_blv_xaycon/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="QT.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Lôi (HOIQUAN.LIVE)
 https://ugh-ht9h.onrender.com/getlinkplay.php?referrer=https://sv2.hoiquan.live/&url=https://tldm0825.edgemaxcdn.org/hqtv_blv_thienloi/tracks-v1a1/playlist.m3u8
+
 
 
 
