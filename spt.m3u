@@ -160,8 +160,13 @@ https://pull.niues.live/live/stream-133824_lsd.m3u8?ps=4&app=live&stream=stream-
 https://p7sf1225.edgemaxcdn.org/xctv_blv_bipcon/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="QT.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Thợ Xây (XAYCON.LIVE)
 https://p7sf1225.edgemaxcdn.org/xctv_blv_xaycon/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="QT.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Cỏ (XAYCON.LIVE)
+https://p7sf1225.edgemaxcdn.org/xctv_blv_aco/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="QT.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA H+ (XAYCON.LIVE)
+https://p7sf1225.edgemaxcdn.org/xctv_blv_hatplus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="QT.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Lôi HD (HOIQUAN.LIVE)
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_thienloi/playlist.m3u8
+
 
 
 
