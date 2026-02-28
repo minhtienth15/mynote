@@ -161,6 +161,8 @@ https://pull.niues.live/live/stream-133824_lsd.m3u8?ps=4&app=live&stream=stream-
 https://qqd10164-demo.hf.space/play/blvchuoicuong
 #EXTINF:-1 group-title="QT.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Lử (DEMNAY.LIVE)
 https://qqd10164-demo.hf.space/play/blvalu
+#EXTINF:-1 group-title="QT.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Lử Server 2 (DEMNAY.LIVE)
+https://demnaylive.monster/live/alune_540p.m3u8
 #EXTINF:-1 group-title="QT.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Cay (DEMNAY.LIVE)
 https://qqd10164-demo.hf.space/play/blvacay
 #EXTINF:-1 group-title="QT.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Lú (DEMNAY.LIVE)
@@ -179,6 +181,7 @@ https://p7sf1225.edgemaxcdn.org/xctv_blv_aco/tracks-v1a1/playlist.m3u8
 https://p7sf1225.edgemaxcdn.org/xctv_blv_hatplus/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="QT.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Lôi (HOIQUAN.LIVE)
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_thienloi/playlist.m3u8
+
 
 
 
