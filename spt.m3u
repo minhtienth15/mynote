@@ -4,9 +4,7 @@ https://hnlive.dramahay.xyz/live/atv/index.m3u8
 #EXTINF:-1 group-title="Introduction" tvg-logo="https://i.imgur.com/xMPq1S4.png", BLV BC
 https://3046426067.global.cdnfastest.com/live/link-27/index.m3u8
 
-
-
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/xMPq1S4.png", SINGER
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/xMPq1S4.png", SINGER/ROSI
 https://pull.niues.live/live/stream-9912102_lsd.m3u8?ps=11&app=live&stream=stream-9912102_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/xMPq1S4.png", DECO
 https://pull.niues.live/live/stream-9912060_lsd.m3u8?ps=11&app=live&stream=stream-9912060_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
@@ -14,6 +12,8 @@ https://pull.niues.live/live/stream-9912060_lsd.m3u8?ps=11&app=live&stream=strea
 https://pull.niues.live/live/stream-9912041_lsd.m3u8?ps=11&app=live&stream=stream-9912041_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/xMPq1S4.png", PEWPEW
 https://pull.niues.live/live/stream-9912015_lsd.m3u8?ps=11&app=live&stream=stream-9912015_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/xMPq1S4.png", TYPN
+https://pull.niues.live/live/stream-9912009_lsd.m3u8?ps=11&app=live&stream=stream-9912009_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/xMPq1S4.png", EDRIC
 https://pull.niues.live/live/stream-512649_lsd.m3u8?ps=11&app=live&stream=stream-512649_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/xMPq1S4.png", SENECA
@@ -146,6 +146,23 @@ https://pull.niues.live/live/stream-564362_lsd.m3u8?ps=9&app=live&stream=stream-
 https://pull.niues.live/live/stream-579055_lsd.m3u8?ps=9&app=live&stream=stream-579055_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/xMPq1S4.png", GOAT
 https://pull.niues.live/live/stream-585206_lsd.m3u8?ps=9&app=live&stream=stream-585206_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/xMPq1S4.png", RABBIT
+https://pull.niues.live/live/stream-596191_lsd.m3u8?ps=9&app=live&stream=stream-596191_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/xMPq1S4.png", CU DEM
+https://pull.niues.live/live/stream-547345_lsd.m3u8?ps=9&app=live&stream=stream-547345_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAO
+https://pull.niues.live/live/stream-597929_lsd.m3u8?ps=9&app=live&stream=stream-597929_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/xMPq1S4.png", GIANG A THO
+https://pull.niues.live/live/stream-592799_lsd.m3u8?ps=9&app=live&stream=stream-592799_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/xMPq1S4.png", PIRLO
+https://pull.niues.live/live/stream-351530_lsd.m3u8?ps=9&app=live&stream=stream-351530_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/xMPq1S4.png", BON BON
+https://pull.niues.live/live/stream-597924_lsd.m3u8?ps=9&app=live&stream=stream-597924_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/xMPq1S4.png", LOKA
+https://pull.niues.live/live/stream-589848_lsd.m3u8?ps=9&app=live&stream=stream-589848_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/xMPq1S4.png", CHANH MUOI
+https://pull.niues.live/live/stream-598549_lsd.m3u8?ps=9&app=live&stream=stream-598549_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
+
 
 
 
@@ -189,3 +206,4 @@ https://p7sf1225.edgemaxcdn.org/xctv_blv_hatplus/tracks-v1a1/playlist.m3u8
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_thienloi/playlist.m3u8
 #EXTINF:-1 group-title="QT.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Heo 1080P (HOIQUAN.LIVE)
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8
+
