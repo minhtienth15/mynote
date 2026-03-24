@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Introduction" tvg-logo="https://i.imgur.com/xMPq1S4.png", Sources: foot (SD)
 https://hnlive.dramahay.xyz/live/atv/index.m3u8
-#EXTINF:-1 group-title="Introduction" tvg-logo="https://i.imgur.com/xMPq1S4.png", BLV BC
-https://3046426067.global.cdnfastest.com/live/link-27/index.m3u8
 
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/xMPq1S4.png", SINGER/ROSI
 https://pull.niues.live/live/stream-9912102_lsd.m3u8?ps=11&app=live&stream=stream-9912102_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
