@@ -124,3 +124,18 @@ https://179939170.vipcdnlive.xyz/live/bachlongmasd2/chunklist.m3u8
 #EXTINF:-1 group-title="QT.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Phủ (Đường Tăng)
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://179939170.vipcdnlive.xyz/live/phusd2/chunklist.m3u8
+
+#EXTINF:-1 group-title="QT.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Tây Môn Chuối (DEMNAY.LIVE)
+https://qqd10164-demo.hf.space/play/blvchuoicuong
+#EXTINF:-1 group-title="QT.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Lử (DEMNAY.LIVE)
+https://qqd10164-demo.hf.space/play/blvalu
+#EXTINF:-1 group-title="QT.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Lử Server 2 (DEMNAY.LIVE)
+https://demnaylive.monster/live/alune_540p.m3u8
+#EXTINF:-1 group-title="QT.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Cay (DEMNAY.LIVE)
+https://qqd10164-demo.hf.space/play/blvacay
+#EXTINF:-1 group-title="QT.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Páo (DEMNAY.LIVE)
+https://qqd10164-demo.hf.space/play/blvpaothu
+#EXTINF:-1 group-title="QT.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Phủ (DEMNAY.LIVE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://demnay.agency/truc-tiep/the-thao/bong-da/uniao-leiria-u23-farense-u23-54350
+https://demnaylive.monster/demnylive/11774363217543509743_540p.m3u8
