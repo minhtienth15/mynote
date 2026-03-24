@@ -181,21 +181,6 @@ https://pull.niues.live/live/stream-152898_lsd.m3u8?ps=4&app=live&stream=stream-
 https://pull.niues.live/live/stream-133824_lsd.m3u8?ps=4&app=live&stream=stream-133824_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 
 
-
-#EXTINF:-1 group-title="QT.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Tây Môn Chuối (DEMNAY.LIVE)
-https://qqd10164-demo.hf.space/play/blvchuoicuong
-#EXTINF:-1 group-title="QT.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Lử (DEMNAY.LIVE)
-https://qqd10164-demo.hf.space/play/blvalu
-#EXTINF:-1 group-title="QT.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Lử Server 2 (DEMNAY.LIVE)
-https://demnaylive.monster/live/alune_540p.m3u8
-#EXTINF:-1 group-title="QT.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Cay (DEMNAY.LIVE)
-https://qqd10164-demo.hf.space/play/blvacay
-#EXTINF:-1 group-title="QT.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Páo (DEMNAY.LIVE)
-https://qqd10164-demo.hf.space/play/blvpaothu
-#EXTINF:-1 group-title="QT.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Phủ (DEMNAY.LIVE)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://demnay.agency/truc-tiep/the-thao/bong-da/uniao-leiria-u23-farense-u23-54350
-https://demnaylive.monster/demnylive/11774363217543509743_540p.m3u8
 #EXTINF:-1 group-title="QT.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Bịp (XAYCON.LIVE)
 https://p7sf1225.edgemaxcdn.org/xctv_blv_bipcon/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="QT.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Thợ Xây (XAYCON.LIVE)
@@ -205,7 +190,7 @@ https://p7sf1225.edgemaxcdn.org/xctv_blv_aco/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="QT.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA H+ (XAYCON.LIVE)
 https://p7sf1225.edgemaxcdn.org/xctv_blv_hatplus/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="QT.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Lôi 1080P (HOIQUAN.LIVE)
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_thienloi/playlist.m3u8
-#EXTINF:-1 group-title="QT.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Heo 1080P (HOIQUAN.LIVE)
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8
+https://ugh-ht9h.onrender.com/getlinkplay.php?referrer=https://https://sv2.hoiquan2.live/&url=https://alive.zlylive.com/hqtv_blv_thienloi/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="QT.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Heo (HOIQUAN.LIVE)
+https://ugh-ht9h.onrender.com/getlinkplay.php?referrer=https://https://sv2.hoiquan2.live/&url=https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v1a1/playlist.m3u8
 
