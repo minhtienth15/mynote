@@ -27,6 +27,8 @@ https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b1800000.m3u
 #EXTINF:-1 tvg-id="vietnamtoday" tvg-name="Vietnam Today" tvg-logo="https://i.imgur.com/N98I4NW.png" group-title="VTV",Vietnam Today
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b1800000.m3u8
 
+#EXTINF:-1 tvg-id="vtv7hd" tvg-name="VTV7" tvg-logo="https://i.imgur.com/AgamSNe.png" group-title="VTV (S2)",VTV7
+https://cdn-live.vtv.vn/PDgU_Ow6DtCYZKTFELkmHg/1774531808/live/vtv7/vtv7-360p.m3u8
 
 
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://i.imgur.com/KEMSBD3.png",HTV1 HD
