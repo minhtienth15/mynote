@@ -12,6 +12,8 @@ https://pull.niues.live/live/stream-9912041_lsd.m3u8?ps=11&app=live&stream=strea
 https://pull.niues.live/live/stream-9912015_lsd.m3u8?ps=11&app=live&stream=stream-9912015_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/xMPq1S4.png", TYPN
 https://pull.niues.live/live/stream-9912009_lsd.m3u8?ps=11&app=live&stream=stream-9912009_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/xMPq1S4.png", LONG
+https://pull.niues.live/live/stream-9912050_lsd.m3u8?ps=11&app=live&stream=stream-9912050_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/xMPq1S4.png", EDRIC
 https://pull.niues.live/live/stream-512649_lsd.m3u8?ps=11&app=live&stream=stream-512649_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/xMPq1S4.png", SENECA
@@ -160,9 +162,14 @@ https://pull.niues.live/live/stream-597924_lsd.m3u8?ps=9&app=live&stream=stream-
 https://pull.niues.live/live/stream-589848_lsd.m3u8?ps=9&app=live&stream=stream-589848_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/xMPq1S4.png", CHANH MUOI
 https://pull.niues.live/live/stream-598549_lsd.m3u8?ps=9&app=live&stream=stream-598549_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
-
-
-
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/xMPq1S4.png", HAI THANH
+https://pull.niues.live/live/stream-599634_lsd.m3u8?ps=9&app=live&stream=stream-599634_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/xMPq1S4.png", SATIVA
+https://pull.niues.live/live/stream-321443_lsd.m3u8?ps=9&app=live&stream=stream-321443_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/xMPq1S4.png", ANH TAI
+https://pull.niues.live/live/stream-406865_lsd.m3u8?ps=9&app=live&stream=stream-406865_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/xMPq1S4.png", HOI GYM
+https://pull.niues.live/live/stream-484845_lsd.m3u8?ps=9&app=live&stream=stream-484845_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 
 
 #EXTINF:-1 group-title="Socolive_TT" tvg-logo="https://i.imgur.com/xMPq1S4.png", SOC TRONG RUNG XA NU
@@ -180,15 +187,15 @@ https://pull.niues.live/live/stream-133824_lsd.m3u8?ps=4&app=live&stream=stream-
 
 
 #EXTINF:-1 group-title="QT.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Bịp (XAYCON.LIVE)
-https://p7sf1225.edgemaxcdn.org/xctv_blv_bipcon/tracks-v1a1/playlist.m3u8
+https://alive.zlylive.com/xctv_blv_bipcon/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="QT.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Thợ Xây (XAYCON.LIVE)
-https://p7sf1225.edgemaxcdn.org/xctv_blv_xaycon/tracks-v1a1/playlist.m3u8
+https://alive.zlylive.com/xctv_blv_xaycon/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="QT.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Cỏ (XAYCON.LIVE)
-https://p7sf1225.edgemaxcdn.org/xctv_blv_aco/tracks-v1a1/playlist.m3u8
+https://alive.zlylive.com/xctv_blv_aco/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="QT.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA H+ (XAYCON.LIVE)
-https://p7sf1225.edgemaxcdn.org/xctv_blv_hatplus/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="QT.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Lôi 1080P (HOIQUAN.LIVE)
-https://ugh-ht9h.onrender.com/getlinkplay.php?referrer=https://sv2.hoiquan2.live/&url=https://alive.zlylive.com/hqtv_blv_thienloi/tracks-v1a1/playlist.m3u8
+https://alive.zlylive.com/xctv_blv_hatplus/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="QT.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Lôi (HOIQUAN.LIVE)
+https://alive.zlylive.com/hqtv_blv_thienloi/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="QT.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Heo (HOIQUAN.LIVE)
-https://ugh-ht9h.onrender.com/getlinkplay.php?referrer=https://sv2.hoiquan2.live/&url=https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v1a1/playlist.m3u8
+https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v1a1/playlist.m3u8
 
