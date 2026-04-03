@@ -176,8 +176,8 @@ https://pull.niues.live/live/stream-603255_lsd.m3u8?ps=9&app=live&stream=stream-
 https://pull.niues.live/live/stream-595335_lsd.m3u8?ps=9&app=live&stream=stream-595335_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/xMPq1S4.png", A TINH
 https://pull.niues.live/live/stream-598119_lsd.m3u8?ps=9&app=live&stream=stream-598119_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
-
-
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/xMPq1S4.png", QUOC KHANH
+https://pull.niues.live/live/stream-602153_lsd.m3u8?ps=9&app=live&stream=stream-602153_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 
 
 
@@ -213,16 +213,3 @@ https://alive.zlylive.com/xctv_blv_hatplus/tracks-v1a1/mono.m3u8
 https://alive.zlylive.com/hqtv_blv_thienloi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="QT.TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CAKHIA Giàng A Heo (HOIQUAN.LIVE)
 https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="TC Đè Tem" tvg-logo="https://i.imgur.com/xMPq1S4.png", Nguoi Tre
-https://cdn-hls.phogatv8.com/live/69ce91e7560af_1210/index.m3u8
-#EXTINF:-1 group-title="TC Đè Tem" tvg-logo="https://i.imgur.com/xMPq1S4.png", Nguoi Gioi
-https://cdn-hls.phogatv8.com/live/69ce8998560af_14/index.m3u8
-#EXTINF:-1 group-title="TC Đè Tem" tvg-logo="https://i.imgur.com/xMPq1S4.png", Nguoi Rung
-https://cdn-hls.phogatv8.com/live/69ce899b560af_148/index.m3u8
-#EXTINF:-1 group-title="TC Đè Tem" tvg-logo="https://i.imgur.com/xMPq1S4.png", Ga Sieu Buong
-https://cdn-hls.phogatv8.com/live/69ce95da57b12_151/index.m3u8
-#EXTINF:-1 group-title="TC Đè Tem" tvg-logo="https://i.imgur.com/xMPq1S4.png", Lenh
-https://cdn-hls.phogatv8.com/live/69ce96f0560af_1549/index.m3u8
-#EXTINF:-1 group-title="TC Đè Tem" tvg-logo="https://i.imgur.com/xMPq1S4.png", Nguoi Bang
-https://cdn-hls.phogatv8.com/live/69ce957657b12_11/index.m3u8
