@@ -180,6 +180,12 @@ https://pull.niues.live/live/stream-602019_lsd.m3u8?ps=9&app=live&stream=stream-
 https://pull.niues.live/live/stream-356042_lsd.m3u8?ps=9&app=live&stream=stream-356042_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/xMPq1S4.png", DO TU TAI
 https://pull.niues.live/live/stream-607552_lsd.m3u8?ps=9&app=live&stream=stream-607552_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/xMPq1S4.png", THOC
+https://pull.niues.live/live/stream-606448_lsd.m3u8?ps=9&app=live&stream=stream-606448_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/xMPq1S4.png", HA DUY KIEN
+https://pull.niues.live/live/stream-607400_lsd.m3u8?ps=9&app=live&stream=stream-607400_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://i.imgur.com/xMPq1S4.png", NAM
+https://pull.niues.live/live/stream-608899_lsd.m3u8?ps=9&app=live&stream=stream-608899_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 
 
 
