@@ -19,7 +19,7 @@ https://vips-livecdn.fptplay.net/live/media/vtv7/live247-hls-avc/vtv7-avc1_40000
 #EXTINF:-1 tvg-id="vtv8hd" tvg-name="VTV8" tvg-logo="https://i.imgur.com/lpcltL9.png" group-title="VTV",VTV8
 https://live.fptplay53.net/fnxhd1/vtv8hd_vhls.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" tvg-name="VTV9" tvg-logo="https://i.imgur.com/Ex1VkGQ.png" group-title="VTV",VTV9
-https://live.fptplay53.net/fnxhd1/vtv9hd_vhls.smil/chunklist_b1800000.m3u8
+https://vips-livecdn.fptplay.net/live/media/vtv9/live247-hls-avc/vtv9-avc1_400000=10004-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vtv10hd" tvg-name="VTV10" tvg-logo="https://i.imgur.com/n1VZWPh.png" group-title="VTV",VTV10
 https://live.fptplay53.net/fnxhd1/vtv10hd_vhls.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtnb" tvg-name="VTV5 TNB" tvg-logo="https://i.imgur.com/7qPKNFU.png" group-title="VTV",VTV5 TNB
