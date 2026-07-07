@@ -213,6 +213,8 @@ https://pull.niues.live/live/stream-133824_lsd.m3u8?ps=4&app=live&stream=stream-
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", Pib
 https://minhtienth15-sorse.hf.space/?referrer=https://sv2.chaoga5.live/&url=https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", Pib Test
+https://alive.yarncdn.live/xctv_blv_bipcon/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", Ciu
 https://minhtienth15-sorse.hf.space/?referrer=https://sv2.chaoga5.live/&url=https://xclive.yarncdn.live/live/xctv_blv_chuoi/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.imgur.com/xMPq1S4.png", Kent
