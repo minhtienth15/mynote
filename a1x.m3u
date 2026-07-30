@@ -44,8 +44,6 @@ https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist_b1800000.m3u8
 https://live.fptplay53.net/epzhd1/htv3_vhls.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-id="htv4" group-title="HTV" tvg-logo="https://i.imgur.com/13jHqoG.png",HTV4 HD
 https://live.fptplay53.net/epzhd1/htv4_vhls.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 tvg-id="htv5" group-title="HTV" tvg-logo="https://i.imgur.com/gqB1K1X.png",HTV5 HD
-https://live.fptplay53.net/fnxsd1/btv9_vhls.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-id="htv7hd" group-title="HTV" tvg-logo="https://i.imgur.com/PPFu7pv.png",HTV7 HD
 https://live.fptplay53.net/epzhd1/htv7hd_vhls.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-id="htv9hd" group-title="HTV" tvg-logo="https://i.imgur.com/1SgC1yo.png",HTV9 HD
