@@ -2,14 +2,10 @@
 #EXTINF:-1 group-title="Introduction" tvg-logo="https://i.imgur.com/xMPq1S4.png", Sources: foot (SD)
 https://hnlive.dramahay.xyz/live/atv/index.m3u8
 
-#EXTINF:-1 group-title="SBTV" tvg-logo="https://i.imgur.com/xMPq1S4.png", RICKHANTER
-https://pull.niues.live/live/stream-9912122_lsd.m3u8?ps=11&app=live&stream=stream-9912122_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
-#EXTINF:-1 group-title="SBTV" tvg-logo="https://i.imgur.com/xMPq1S4.png", TA BIEN GIOI
+#EXTINF:-1 group-title="SBTV" tvg-logo="https://i.imgur.com/xMPq1S4.png", BA PHU
 https://pull.niues.live/live/stream-9912108_lsd.m3u8?ps=11&app=live&stream=stream-9912108_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
-#EXTINF:-1 group-title="SBTV" tvg-logo="https://i.imgur.com/xMPq1S4.png", DECO
+#EXTINF:-1 group-title="SBTV" tvg-logo="https://i.imgur.com/xMPq1S4.png", ZIDANE
 https://pull.niues.live/live/stream-9912060_lsd.m3u8?ps=11&app=live&stream=stream-9912060_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
-#EXTINF:-1 group-title="SBTV" tvg-logo="https://i.imgur.com/xMPq1S4.png", TAP
-https://pull.niues.live/live/stream-9912041_lsd.m3u8?ps=11&app=live&stream=stream-9912041_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 #EXTINF:-1 group-title="SBTV" tvg-logo="https://i.imgur.com/xMPq1S4.png", PEWPEW
 https://pull.niues.live/live/stream-9912015_lsd.m3u8?ps=11&app=live&stream=stream-9912015_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 #EXTINF:-1 group-title="SBTV" tvg-logo="https://i.imgur.com/xMPq1S4.png", TYPN
@@ -26,8 +22,6 @@ https://pull.niues.live/live/stream-380460_lsd.m3u8?ps=11&app=live&stream=stream
 https://pull.niues.live/live/stream-321443_lsd.m3u8?ps=4&app=live&stream=stream-321443_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 #EXTINF:-1 group-title="SBTV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CONG LY
 https://pull.niues.live/live/stream-9912035_lsd.m3u8?ps=4&app=live&stream=stream-9912035_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
-#EXTINF:-1 group-title="SBTV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CHAN SENA
-https://pull.niues.live/live/stream-515530_lsd.m3u8?ps=4&app=live&stream=stream-515530_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 #EXTINF:-1 group-title="SBTV" tvg-logo="https://i.imgur.com/xMPq1S4.png", KAI
 https://pull.niues.live/live/stream-313971_lsd.m3u8?ps=4&app=live&stream=stream-313971_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 #EXTINF:-1 group-title="SBTV" tvg-logo="https://i.imgur.com/xMPq1S4.png", VODKA
@@ -52,8 +46,6 @@ https://pull.niues.live/live/stream-513394_lsd.m3u8?ps=4&app=live&stream=stream-
 https://pull.niues.live/live/stream-527383_lsd.m3u8?ps=4&app=live&stream=stream-527383_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 #EXTINF:-1 group-title="SBTV" tvg-logo="https://i.imgur.com/xMPq1S4.png", TAO
 https://pull.niues.live/live/stream-479849_lsd.m3u8?ps=4&app=live&stream=stream-479849_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
-#EXTINF:-1 group-title="SBTV" tvg-logo="https://i.imgur.com/xMPq1S4.png", A BEU
-https://pull.niues.live/live/stream-484845_lsd.m3u8?ps=4&app=live&stream=stream-484845_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 #EXTINF:-1 group-title="SBTV" tvg-logo="https://i.imgur.com/xMPq1S4.png", DOM
 https://pull.niues.live/live/stream-9912110_lsd.m3u8?ps=4&app=live&stream=stream-9912110_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 #EXTINF:-1 group-title="SBTV" tvg-logo="https://i.imgur.com/xMPq1S4.png", XO
@@ -72,14 +64,10 @@ https://pull.niues.live/live/stream-9912109_lsd.m3u8?ps=4&app=live&stream=stream
 https://pull.niues.live/live/stream-290928_lsd.m3u8?ps=9&app=live&stream=stream-290928_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 #EXTINF:-1 group-title="SBTV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CONG CHAT
 https://pull.niues.live/live/stream-291277_lsd.m3u8?ps=4&app=live&stream=stream-291277_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
-#EXTINF:-1 group-title="SBTV" tvg-logo="https://i.imgur.com/xMPq1S4.png", FIREMAN
-https://pull.niues.live/live/stream-991140_lsd.m3u8?ps=4&app=live&stream=stream-991140_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 #EXTINF:-1 group-title="SBTV" tvg-logo="https://i.imgur.com/xMPq1S4.png", FANTA
 https://pull.niues.live/live/stream-9912104_lsd.m3u8?ps=5&app=live&stream=stream-9912104_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 #EXTINF:-1 group-title="SBTV" tvg-logo="https://i.imgur.com/xMPq1S4.png", TOMIA
 https://pull.niues.live/live/stream-9912008_lsd.m3u8?ps=3&app=live&stream=stream-9912008_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
-#EXTINF:-1 group-title="SBTV" tvg-logo="https://i.imgur.com/xMPq1S4.png", WUKONG
-https://pull.niues.live/live/stream-511367_lsd.m3u8?ps=1&app=live&stream=stream-511367_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 #EXTINF:-1 group-title="SBTV" tvg-logo="https://i.imgur.com/xMPq1S4.png", 7UP
 https://pull.niues.live/live/stream-534219_lsd.m3u8?ps=1&app=live&stream=stream-534219_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 #EXTINF:-1 group-title="SBTV" tvg-logo="https://i.imgur.com/xMPq1S4.png", SAO DO
@@ -104,14 +92,10 @@ https://pull.niues.live/live/stream-548260_lsd.m3u8?ps=1&app=live&stream=stream-
 https://pull.niues.live/live/stream-9912113_lsd.m3u8?ps=1&app=live&stream=stream-9912113_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 #EXTINF:-1 group-title="SBTV" tvg-logo="https://i.imgur.com/xMPq1S4.png", RED BULL
 https://pull.niues.live/live/stream-547345_lsd.m3u8?ps=1&app=live&stream=stream-547345_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
-#EXTINF:-1 group-title="SBTV" tvg-logo="https://i.imgur.com/xMPq1S4.png", VIP
-https://pull.niues.live/live/stream-491873_lsd.m3u8?ps=1&app=live&stream=stream-491873_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 #EXTINF:-1 group-title="SBTV" tvg-logo="https://i.imgur.com/xMPq1S4.png", A TU
 https://pull.niues.live/live/stream-557845_lsd.m3u8?ps=1&app=live&stream=stream-557845_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 #EXTINF:-1 group-title="SBTV" tvg-logo="https://i.imgur.com/xMPq1S4.png", MESSI
 https://pull.niues.live/live/stream-494201_lsd.m3u8?ps=9&app=live&stream=stream-494201_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
-#EXTINF:-1 group-title="SBTV" tvg-logo="https://i.imgur.com/xMPq1S4.png", KEP
-https://pull.niues.live/live/stream-560690_lsd.m3u8?ps=9&app=live&stream=stream-560690_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 #EXTINF:-1 group-title="SBTV" tvg-logo="https://i.imgur.com/xMPq1S4.png", TOM
 https://pull.niues.live/live/stream-561379_lsd.m3u8?ps=9&app=live&stream=stream-561379_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 #EXTINF:-1 group-title="SBTV" tvg-logo="https://i.imgur.com/xMPq1S4.png", RUA VANG
@@ -132,8 +116,6 @@ https://pull.niues.live/live/stream-566705_lsd.m3u8?ps=9&app=live&stream=stream-
 https://pull.niues.live/live/stream-581585_lsd.m3u8?ps=9&app=live&stream=stream-581585_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 #EXTINF:-1 group-title="SBTV" tvg-logo="https://i.imgur.com/xMPq1S4.png", DINH BAC
 https://pull.niues.live/live/stream-579144_lsd.m3u8?ps=9&app=live&stream=stream-579144_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
-#EXTINF:-1 group-title="SBTV" tvg-logo="https://i.imgur.com/xMPq1S4.png", TOMMY
-https://pull.niues.live/live/stream-414317_lsd.m3u8?ps=9&app=live&stream=stream-414317_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 #EXTINF:-1 group-title="SBTV" tvg-logo="https://i.imgur.com/xMPq1S4.png", BUA TA
 https://pull.niues.live/live/stream-570313_lsd.m3u8?ps=9&app=live&stream=stream-570313_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 #EXTINF:-1 group-title="SBTV" tvg-logo="https://i.imgur.com/xMPq1S4.png", SON HIP
@@ -156,26 +138,16 @@ https://pull.niues.live/live/stream-592799_lsd.m3u8?ps=9&app=live&stream=stream-
 https://pull.niues.live/live/stream-351530_lsd.m3u8?ps=9&app=live&stream=stream-351530_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 #EXTINF:-1 group-title="SBTV" tvg-logo="https://i.imgur.com/xMPq1S4.png", BON BON
 https://pull.niues.live/live/stream-597924_lsd.m3u8?ps=9&app=live&stream=stream-597924_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
-#EXTINF:-1 group-title="SBTV" tvg-logo="https://i.imgur.com/xMPq1S4.png", LOKA
-https://pull.niues.live/live/stream-589848_lsd.m3u8?ps=9&app=live&stream=stream-589848_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 #EXTINF:-1 group-title="SBTV" tvg-logo="https://i.imgur.com/xMPq1S4.png", PICK
 https://pull.niues.live/live/stream-598549_lsd.m3u8?ps=9&app=live&stream=stream-598549_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
-#EXTINF:-1 group-title="SBTV" tvg-logo="https://i.imgur.com/xMPq1S4.png", HAI THANH
-https://pull.niues.live/live/stream-599634_lsd.m3u8?ps=9&app=live&stream=stream-599634_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 #EXTINF:-1 group-title="SBTV" tvg-logo="https://i.imgur.com/xMPq1S4.png", SATIVA
 https://pull.niues.live/live/stream-321443_lsd.m3u8?ps=9&app=live&stream=stream-321443_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
-#EXTINF:-1 group-title="SBTV" tvg-logo="https://i.imgur.com/xMPq1S4.png", ANH TAI
-https://pull.niues.live/live/stream-406865_lsd.m3u8?ps=9&app=live&stream=stream-406865_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 #EXTINF:-1 group-title="SBTV" tvg-logo="https://i.imgur.com/xMPq1S4.png", HOI GYM
 https://pull.niues.live/live/stream-484845_lsd.m3u8?ps=9&app=live&stream=stream-484845_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 #EXTINF:-1 group-title="SBTV" tvg-logo="https://i.imgur.com/xMPq1S4.png", LION
 https://pull.niues.live/live/stream-603255_lsd.m3u8?ps=9&app=live&stream=stream-603255_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 #EXTINF:-1 group-title="SBTV" tvg-logo="https://i.imgur.com/xMPq1S4.png", NGUOI CA
 https://pull.niues.live/live/stream-595335_lsd.m3u8?ps=9&app=live&stream=stream-595335_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
-#EXTINF:-1 group-title="SBTV" tvg-logo="https://i.imgur.com/xMPq1S4.png", A TINH
-https://pull.niues.live/live/stream-598119_lsd.m3u8?ps=9&app=live&stream=stream-598119_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
-#EXTINF:-1 group-title="SBTV" tvg-logo="https://i.imgur.com/xMPq1S4.png", QUOC KHANH
-https://pull.niues.live/live/stream-602153_lsd.m3u8?ps=9&app=live&stream=stream-602153_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 #EXTINF:-1 group-title="SBTV" tvg-logo="https://i.imgur.com/xMPq1S4.png", RYO
 https://pull.niues.live/live/stream-602019_lsd.m3u8?ps=9&app=live&stream=stream-602019_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 #EXTINF:-1 group-title="SBTV" tvg-logo="https://i.imgur.com/xMPq1S4.png", A CHE
@@ -194,6 +166,19 @@ https://pull.niues.live/live/stream-273736_lsd.m3u8?ps=9&app=live&stream=stream-
 https://pull.niues.live/live/stream-611528_lsd.m3u8?ps=9&app=live&stream=stream-611528_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
 #EXTINF:-1 group-title="SBTV" tvg-logo="https://i.imgur.com/xMPq1S4.png", GRAP
 https://pull.niues.live/live/stream-622093_lsd.m3u8?ps=9&app=live&stream=stream-622093_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
-#EXTINF:-1 group-title="SBTV" tvg-logo="https://i.imgur.com/xMPq1S4.png", VINFAT
-https://pull.niues.live/live/stream-617313_lsd.m3u8?ps=9&app=live&stream=stream-617313_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
-
+#EXTINF:-1 group-title="SBTV" tvg-logo="https://i.imgur.com/xMPq1S4.png", BUN DAU
+https://pull.niues.live/live/stream-619561_lsd.m3u8?ps=9&app=live&stream=stream-619561_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
+#EXTINF:-1 group-title="SBTV" tvg-logo="https://i.imgur.com/xMPq1S4.png", TRA DA
+https://pull.niues.live/live/stream-603914_lsd.m3u8?ps=9&app=live&stream=stream-603914_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
+#EXTINF:-1 group-title="SBTV" tvg-logo="https://i.imgur.com/xMPq1S4.png", KENCHU
+https://pull.niues.live/live/stream-622602_lsd.m3u8?ps=9&app=live&stream=stream-622602_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
+#EXTINF:-1 group-title="SBTV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CACAO
+https://pull.niues.live/live/stream-620661_lsd.m3u8?ps=9&app=live&stream=stream-620661_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
+#EXTINF:-1 group-title="SBTV" tvg-logo="https://i.imgur.com/xMPq1S4.png", BO TUOI
+https://pull.niues.live/live/stream-620797_lsd.m3u8?ps=9&app=live&stream=stream-620797_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
+#EXTINF:-1 group-title="SBTV" tvg-logo="https://i.imgur.com/xMPq1S4.png", PEANUT
+https://pull.niues.live/live/stream-620084_lsd.m3u8?ps=9&app=live&stream=stream-620084_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
+#EXTINF:-1 group-title="SBTV" tvg-logo="https://i.imgur.com/xMPq1S4.png", BOSS
+https://pull.niues.live/live/stream-620504_lsd.m3u8?ps=9&app=live&stream=stream-620504_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
+#EXTINF:-1 group-title="SBTV" tvg-logo="https://i.imgur.com/xMPq1S4.png", CHAN DE
+https://pull.niues.live/live/stream-621887_lsd.m3u8?ps=9&app=live&stream=stream-621887_lsd&vhost=pull.niues.live&x_push_domain=push06.scstream.net
