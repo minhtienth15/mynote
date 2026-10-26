@@ -24,21 +24,6 @@ https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv9__vtv360p-h264/index.m
 https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv10__vtv360p-h264/index.m3u8
 
 
-#EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://i.imgur.com/KEMSBD3.png",HTV1 HD
-https://live.fptplay53.net/epzhd1/htv1_vhls.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 tvg-id="htv2hd" group-title="HTV" tvg-logo="https://i.imgur.com/Yc3cmAi.png",HTV2 HD
-https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 tvg-id="htv4" group-title="HTV" tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3 HD
-https://live.fptplay53.net/epzhd1/htv3_vhls.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 tvg-id="htv4" group-title="HTV" tvg-logo="https://i.imgur.com/13jHqoG.png",HTV4 HD
-https://live.fptplay53.net/epzhd1/htv4_vhls.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 tvg-id="htv7hd" group-title="HTV" tvg-logo="https://i.imgur.com/PPFu7pv.png",HTV7 HD
-https://live.fptplay53.net/epzhd1/htv7hd_vhls.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 tvg-id="htv9hd" group-title="HTV" tvg-logo="https://i.imgur.com/1SgC1yo.png",HTV9 HD
-https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://i.imgur.com/z7NOxJ3.png",HTV Thể Thao HD
-https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist_b1800000.m3u8
-
 #EXTINF:-1 group-title="VOV" tvg-id="vov1" tvg-logo="https://i.imgur.com/fuuXXSo.png" radio="true",VOV1
 http://media.kythuatvov.vn:8001/;stream
 #EXTINF:-1 group-title="VOV" tvg-id="vov2" tvg-logo="https://i.imgur.com/fuuXXSo.png" radio="true",VOV2
